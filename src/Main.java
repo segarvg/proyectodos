@@ -18,6 +18,13 @@ public class Main {
         int cedula4=1033489179
         int cedula5=453590
         int cedula6=1017926485
+      String barrio1= "itagui";
+      String barrio2= "alfonso lopez";
+      String barrio3= "andalucia";
+      String barrio4= "tricentenario";
+      String barrio5= "pan de azucar";
+      String barrio6= "la florida";
+              
 
     }
 }
